@@ -59,7 +59,7 @@ const Navbar = () => {
         </li>
       </ul>
       <ul className="flex items-center gap-3">
-        <li className="text-black/40">jonhdoe@email.com</li>
+        <li className="text-black/40">johndoe@email.com</li>
         <li>
           <NavLink
             to="/my-orders"
